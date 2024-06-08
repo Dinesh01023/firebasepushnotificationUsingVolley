@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebasePushNotification</string>
+
+    <string name="NEWS_CHANNEL_ID">Updates</string>
+    <string name="CHANNEL_NEWS">Updates</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+
+</resources>
